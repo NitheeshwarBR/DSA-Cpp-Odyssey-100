@@ -5,6 +5,8 @@ Given an array nums where nums[i] represents the elements of the array and a fac
 <br/>
 The array should be returned such that it is rotated by K number of elements.
 
+[tags](#problem-tags)
+
 ### Constraints
 - Assume that the given array is of integer type 
 - The Modifications should ve made to the original array itself
@@ -75,6 +77,9 @@ int main() {
 }
 
 ```
+##### problem-tags
+- Arrays / vectors
+- vector iterations (begin , end )
 ### Complexity Analysis
 #### Time Complexity 
 ```
