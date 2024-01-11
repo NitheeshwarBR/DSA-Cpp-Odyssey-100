@@ -4,3 +4,8 @@ This open-source repository is dedicated to solving 100 coding problems, tailore
 -Authored with :heart: By :
 <br/>
  &nbsp; &nbsp; &nbsp; ~Nitheeshwar B R
+ <br/>
+-Under the guidance of :
+<br/>
+ &nbsp; &nbsp; &nbsp; ~Dr . H C Ramprasad
+
