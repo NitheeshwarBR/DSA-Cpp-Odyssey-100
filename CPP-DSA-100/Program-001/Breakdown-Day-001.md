@@ -164,6 +164,76 @@ n -> number of elements in an array
 k -> The factor k , The number of elements by which it is rotated
 ```
 
+---
 
+### Approach 3 :`[In Place Rotation]`
+#### Algorithm
+```
+step 1 : Traverse the elements from 0 to n (size of the array)
+step 2 : Reverse the Positions
+          -    Reverses the subarray [0 to k-1].
+          -    Reverses the subarray [k to n-1].
+          -    Reverses the entire array. 
+```
+#### Code
+```cpp
+#include<iostream>
+#include<vector>
+using namespace std;
+
+void ReverseArray(vector<int> &nums, int start, int end) {
+  while (start < end) {
+    swap(nums[start], nums[end]);
+    start++;
+    end--;
+  }
+}
+
+void LeftRotateArray(vector<int> &nums, int k) {
+  int n = nums.size();
+  k = k % n; 
+  ReverseArray(nums, 0, k - 1);
+  ReverseArray(nums, k, n - 1);
+  ReverseArray(nums, 0, n - 1);
+}
+
+int main() {
+  vector<int> a = {1, 2, 3, 4, 5};
+  int k = 1;
+
+  LeftRotateArray(a, k);
+
+  int m = a.size();
+  cout << "Rotated Array" << endl;
+  for (int i = 0; i < m; i++) {
+    cout << a[i] << " ";
+  }
+  cout << endl;
+
+  return 0;
+}
+```
+##### problem-tags
+- Arrays / vectors
+- vector iterations (begin , end )
+### Complexity Analysis
+#### Time Complexity 
+```
+T(n) = T(O(n))
+T(n) = O(n)
+
+where ,
+n -> number of elements in the array
+```
+#### Space Complexity 
+
+```
+S(n) = S(O(1))
+S(n) = O(1)
+
+where ,
+n -> number of elements in an array 
+k -> The factor k , The number of elements by which it is rotated
+```
 
 
