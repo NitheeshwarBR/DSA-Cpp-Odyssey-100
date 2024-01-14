@@ -83,7 +83,7 @@ int main() {
 #### Time Complexity 
 ```
 T(n) = T(O(n*n))
-T(n) = O($n^2$)
+T(n) = O(n^2)
 
 
 where ,
@@ -133,7 +133,7 @@ int main() {
 #### Time Complexity 
 ```
 T(n) = T(O(n))
-T(n) = O($n$)
+T(n) = O(n)
 
 
 where ,
