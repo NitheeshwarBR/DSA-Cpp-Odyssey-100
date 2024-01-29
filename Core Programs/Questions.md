@@ -1,0 +1,45 @@
+#### Level 0
+- [write a program to reverse an integer in C](./Level%200/program1-reverse_integer.c)
+- [write a program to check whether an integer is armstrong number or not](./Level%200/program2-Armstrong.cpp)
+- prime or not
+- fibonacci series using recursion
+- fibonacci series using iteration
+- palindrome or not using recusion
+- prime factors of a given number
+- add 2 intgers without using + operator
+- multiply any number by 9 without using * operator
+- Factorial using iterative method
+- First N Prime Numbers
+- Without in built method , compute power of a number 
+- square of a given number without using library function
+- GCD , LCM , HCF
+- Decimal to Binary Conversion
+- Decimal to Octal
+- Leap Year or Not
+- Celsius to Fahernheit and vice versa
+
+---
+
+#### Level 1
+- Write a method in C which will remove given charcter from a string 
+- Write a program in C to Count Occurence of a given character in a string 
+- Write a program in C to check if two strings are anagrams or not
+- Palindrome or not
+- Vowel or Consonant
+- Program to check given character is digit or not
+- program to replace the string space with a given character 
+- convert Lower Case to Upper Case and vice versa
+- C program to delete vowels in a given string 
+- C program to count occurence of vowels and consonants in a string
+- program to print the highest frequency character in a string 
+- program to replace first occurence of vowel with a '_' in a string 
+- C program to count alphabets , digits and special characters
+- C program to seperate characters in a given string 
+- Remove blank spaces from the string 
+- concatenate two strings
+- remove repeated character from strings
+- Sum of integers in a given string 
+- Program to print all non repeating character in a string 
+- Copy one string to another 
+- program to sort characters of string 
+- Program to sort character of a string in descending order
