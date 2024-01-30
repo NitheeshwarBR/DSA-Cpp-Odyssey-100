@@ -1,9 +1,9 @@
 #### Level 0
 - [write a program to reverse an integer in C](./Level%200/program1-reverse_integer.c)
 - [write a program to check whether an integer is armstrong number or not](./Level%200/program2-Armstrong.cpp)
-- prime or not
-- fibonacci series using recursion
-- fibonacci series using iteration
+- [prime or not](./Level%200/program3-Prime_or_Not.cpp)
+- [fibonacci series using recursion](./Level%200/program4-fibbo-1.cpp)
+- [fibonacci series using iteration](./Level%200/program5-fibbo-2.cpp)
 - palindrome or not using recusion
 - prime factors of a given number
 - add 2 intgers without using + operator
