@@ -4,7 +4,7 @@
 - [prime or not](./Level%200/program3-Prime_or_Not.cpp)
 - [fibonacci series using recursion](./Level%200/program4-fibbo-1.cpp)
 - [fibonacci series using iteration](./Level%200/program5-fibbo-2.cpp)
-- palindrome or not using recusion
+- [palindrome or not using recusion](./Level%200/program6-palindrome.cpp)
 - prime factors of a given number
 - add 2 intgers without using + operator
 - multiply any number by 9 without using * operator
