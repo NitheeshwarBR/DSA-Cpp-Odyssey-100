@@ -7,22 +7,22 @@
 - [palindrome or not using recusion](./Level%200/program6-palindrome.cpp)4
 - prime factors of a given number
 - [add 2 intgers without using + operator](./Level%200/program8-add_without_+.cpp)
-- multiply any number by 9 without using * operator
-- Factorial using iterative method
+- [multiply any two number without using * operator](./Level%200/program9-multiply.cpp)
+- [Factorial using iterative method](./Level%200/program10-factrial.cpp)
 - First N Prime Numbers
-- Without in built method , compute power of a number 
-- square of a given number without using library function
-- GCD , LCM , HCF
+- [Without in built method , compute power of a number](./Level%200/program12-power.cpp)
+- [square of a given number without using library function](./Level%200/program13-square.cpp)
+- GCD , LCM , HCF   
 - Decimal to Binary Conversion
 - Decimal to Octal
-- Leap Year or Not
+- [Leap Year or Not](./Level%200/program14-leap_or_not.cpp)
 - Celsius to Fahernheit and vice versa
 
 ---
 
 #### Level 1
-- Write a method in C which will remove given charcter from a string 
-- Write a program in C to Count Occurence of a given character in a string 
+- [Write a method in C which will remove given charcter from a string ](./Level%201/program1-remove_char.c)
+- [Write a program in C to Count Occurence of a given character in a string ](./Level%201/program2-occurence.c)
 - Write a program in C to check if two strings are anagrams or not
 - Palindrome or not
 - Vowel or Consonant
