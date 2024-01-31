@@ -4,9 +4,9 @@
 - [prime or not](./Level%200/program3-Prime_or_Not.cpp)
 - [fibonacci series using recursion](./Level%200/program4-fibbo-1.cpp)
 - [fibonacci series using iteration](./Level%200/program5-fibbo-2.cpp)
-- [palindrome or not using recusion](./Level%200/program6-palindrome.cpp)
+- [palindrome or not using recusion](./Level%200/program6-palindrome.cpp)4
 - prime factors of a given number
-- add 2 intgers without using + operator
+- [add 2 intgers without using + operator](./Level%200/program8-add_without_+.cpp)
 - multiply any number by 9 without using * operator
 - Factorial using iterative method
 - First N Prime Numbers
