@@ -24,7 +24,7 @@
 - [Write a method in C which will remove given charcter from a string ](./Level%201/program1-remove_char.c)
 - [Write a program in C to Count Occurence of a given character in a string ](./Level%201/program2-occurence.c)
 - Write a program in C to check if two strings are anagrams or not
-- Palindrome or not
+- [Palindrome or not](./Level%201/program4-palindrome.cpp)
 - Vowel or Consonant
 - Program to check given character is digit or not
 - program to replace the string space with a given character 
