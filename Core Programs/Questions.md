@@ -23,12 +23,12 @@
 #### Level 1
 - [Write a method in C which will remove given charcter from a string ](./Level%201/program1-remove_char.c)
 - [Write a program in C to Count Occurence of a given character in a string ](./Level%201/program2-occurence.c)
-- Write a program in C to check if two strings are anagrams or not
+- [Write a program in C to check if two strings are anagrams or not](./Level%201/program3-anagrams.cpp)
 - [Palindrome or not](./Level%201/program4-palindrome.cpp)
-- Vowel or Consonant
-- Program to check given character is digit or not
-- program to replace the string space with a given character 
-- convert Lower Case to Upper Case and vice versa
+- [Vowel or Consonant](./Level%201/program5-vowel_consonant.cpp)
+- [Program to check given character is digit or not](./Level%201/program6-digit_or_not.cpp)
+- [program to replace the string space with a given character](./Level%201/program7-string_space.cpp) 
+- [convert Lower Case to Upper Case and vice versa](./Level%201/program8-convert_to_upper_and_lower.c)
 - C program to delete vowels in a given string 
 - C program to count occurence of vowels and consonants in a string
 - program to print the highest frequency character in a string 
@@ -36,7 +36,7 @@
 - C program to count alphabets , digits and special characters
 - C program to seperate characters in a given string 
 - Remove blank spaces from the string 
-- concatenate two strings
+- [concatenate two strings](./Level%201/program16-concat.cpp)
 - remove repeated character from strings
 - Sum of integers in a given string 
 - Program to print all non repeating character in a string 

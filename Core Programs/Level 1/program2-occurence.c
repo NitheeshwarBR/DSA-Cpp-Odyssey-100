@@ -20,5 +20,4 @@ int main()
     int result = count_occurences(myString,char_to_count);
     printf("The Number of occurences of %c in %s is %d \n",char_to_count,myString,result);
     return 0;
-
 }
